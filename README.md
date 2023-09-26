@@ -1,3 +1,5 @@
+# Please refer to the code for Foodv2: [**https://github.com/binyisu/food**](https://github.com/binyisu/food)
+
 # FSOSOD
 [2023-01-16]: One of the key challenges for **few-shot open-set object detection** is that **limited training samples induce the model to overfit on the few-shot known classes**, thereby resulting in a poor open-set performance. To alleviate the above problem, **we propose to decouple training a virtual unknown class and sparse the prediction weights for unknown detection in few-shot scenes**. We compare our method with several state-of-the-art OSOD methods in few-shot scenes and observe that our method improves the recall of unknown classes by **5%-9%** across all shots in VOC-COCO dataset setting.
 
