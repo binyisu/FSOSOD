@@ -7,3 +7,25 @@ You can first refer to the code for Foodv2: [**https://github.com/binyisu/food**
 
 [2022-10-31]: Binyi Su, Hua Zhang, Jingzhi Li, Zhong Zhou. Towards Few-Shot Open-Set Object Detection,
 https://arxiv.org/abs/2210.15996.
+
+### Citation
+
+If you find this repo useful, please consider citing our paper:
+
+```
+@inproceedings{foodv2,
+  title={HSIC-based Moving WeightAveraging for Few-Shot Open-Set Object Detection},
+  author={Binyi Su, Hua Zhang, and Zhong Zhou},
+  booktitle={Proceedings of the31st ACM International Conference on Multimedia (MM 23)},
+  page={5358--5369},
+  year={2023},
+  doi={https://doi.org/10.1145/3581783.3611850}
+}
+
+@article{su2022towards,
+  title={Towards Few-Shot Open-Set Object Detection},
+  author={Su, Binyi and Zhang, Hua and Li, Jingzhi and Zhou, Zhong},
+  journal={arXiv preprint arXiv:2210.15996},
+  year={2022}
+}
+```
